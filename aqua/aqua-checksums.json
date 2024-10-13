@@ -56,6 +56,11 @@
       "algorithm": "sha256"
     },
     {
+      "id": "github_release/github.com/pre-commit/pre-commit/v4.0.1/pre-commit-4.0.1.pyz",
+      "checksum": "F3E65C943795BE7879E7EA2BEDA248321B6C8AE851DABC785522A432FB8CE003",
+      "algorithm": "sha256"
+    },
+    {
       "id": "registries/github_content/github.com/aquaproj/aqua-registry/v4.233.0/registry.yaml",
       "checksum": "4A257D28FD6EC0E27FEFFF8599958C35BDF32273989B16DAB00F17F51936CF9E8147DB5B1A4843AC0E258D5FAD2AF610E960A15F09DD35413B37E4C783C0F064",
       "algorithm": "sha512"
