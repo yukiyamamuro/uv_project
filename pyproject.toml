@@ -28,6 +28,7 @@ select = [
 ]
 # 除外するエラーの種類
 ignore = [
+    "E501",  # line too long
     "B008",  # do not perform function calls in argument defaults
     "C901",  # too complex
     "W191",  # indentation contains tabs
