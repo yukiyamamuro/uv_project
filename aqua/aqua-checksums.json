@@ -26,6 +26,36 @@
       "algorithm": "sha256"
     },
     {
+      "id": "github_release/github.com/evilmartians/lefthook/v1.7.18/lefthook_1.7.18_Linux_arm64.gz",
+      "checksum": "C0DDDC8D62A28DEC5A6A5D0E9E1B5616DCFB441E8FB17A57B719588C6FE9CAE2",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/evilmartians/lefthook/v1.7.18/lefthook_1.7.18_Linux_x86_64.gz",
+      "checksum": "D30035FD295B4B2BF19683F1F4B4786976D058174EF178866DED16D10351F8BB",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/evilmartians/lefthook/v1.7.18/lefthook_1.7.18_MacOS_arm64.gz",
+      "checksum": "3E453064466E81F39201C736573DD38E3A58B83C3465E8E04CD0F5934A8347D4",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/evilmartians/lefthook/v1.7.18/lefthook_1.7.18_MacOS_x86_64.gz",
+      "checksum": "2F55B65123CDE4D4930F4CDE7C22A9D0603C40816391CC21AF9D87C6FA8BD88F",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/evilmartians/lefthook/v1.7.18/lefthook_1.7.18_Windows_arm64.gz",
+      "checksum": "A7ACBB36AEFB8515AFD3EC5B9117FE2E10C56D2ECA80EF91454CB237163CA1F1",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/evilmartians/lefthook/v1.7.18/lefthook_1.7.18_Windows_x86_64.gz",
+      "checksum": "D356EE5E5F1535A76862D97D4C937B2BE658B27DE5BFBEB18987410FCB920684",
+      "algorithm": "sha256"
+    },
+    {
       "id": "registries/github_content/github.com/aquaproj/aqua-registry/v4.233.0/registry.yaml",
       "checksum": "4A257D28FD6EC0E27FEFFF8599958C35BDF32273989B16DAB00F17F51936CF9E8147DB5B1A4843AC0E258D5FAD2AF610E960A15F09DD35413B37E4C783C0F064",
       "algorithm": "sha512"
