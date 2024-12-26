@@ -6,5 +6,8 @@
       "source.organizeImports": "explicit"
     },
     "editor.defaultFormatter": "charliermarsh.ruff"
-  }
+  },
+  "python.analysis.extraPaths": [
+    ".venv/lib/python3.12/site-packages"
+  ]
 }
